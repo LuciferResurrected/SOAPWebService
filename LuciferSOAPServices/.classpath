@@ -29,5 +29,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="D:/GIT/SOAPWebService/Jars/javax.servlet-3.0.jar"/>
+	<classpathentry kind="src" output="target/classes" path="target/src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
